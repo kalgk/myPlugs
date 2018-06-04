@@ -10,7 +10,7 @@
 **/
 
 
-var dateCount = function(){
+var getDate = function(){
 	
 	function getPrev(dateArr){
 		var prevMonthDate = '';
