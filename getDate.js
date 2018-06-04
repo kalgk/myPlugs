@@ -1,3 +1,14 @@
+
+/*
+* 根据当前日期，获取
+*
+* 上一天，下一天:@getNext @getPrev
+* 上一周，下一周:@getWeek
+* 上一月，下一月:@getMonthDate
+* 上一年，下一年:@getYearDate
+**/
+
+
 var dateCount = function(){
 	
 	function getPrev(dateArr){
